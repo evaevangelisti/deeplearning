@@ -1,0 +1,5 @@
+# Python version manager files
+.python-version
+
+# Virtual environments
+.venv/
