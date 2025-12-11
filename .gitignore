@@ -3,3 +3,12 @@
 
 # Virtual environments
 .venv/
+
+# Build artifacts
+*.egg-info/
+
+# Compiled Python files
+__pycache__/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
